@@ -378,6 +378,7 @@ const TopStar = ({ state }: { state: 'CHAOS' | 'FORMED' }) => {
     </group>
   );
 };
+//
 
 // --- Main Scene Experience ---
 const Experience = ({ sceneState, rotationSpeed }: { sceneState: 'CHAOS' | 'FORMED', rotationSpeed: number }) => {
